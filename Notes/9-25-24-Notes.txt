@@ -1,0 +1,2 @@
+-Lost notes from last coding session, but got back on track
+-Fixed weird diagonal movement with touchscreen, implemented fall. 

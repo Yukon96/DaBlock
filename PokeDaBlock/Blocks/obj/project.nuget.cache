@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/wOpfvqs8/H11b0pDRynSSySdmbBNiYGJ92VA0xBXBnodnxcTohqEuzm2za/S7O/VwTQY2y1BYn5g1weILVnzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\personal\\poketypes\\PokeTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+-Wanted to get going on basics of game, spawning blocks, implementing collision and relevant logic, passing control from one block to the next. 
+	-Passing control would take place when the currently controlled object (CCO) makes contact with a placed object. Need to implement a trigger to change controls to a second block (spawned in and off screen)
+	-Janken to start, fire, water, grass one touch to break on super effective, no effect on not very effective, and neutral will chain blocks to break together once contact is made with a super effective. Allows for strategic placement of non breaking blocks, but there is an ever present chance to get a breaking block (2/3 to start, may increase odds(if having gone too long without a color, increase it's spawn chance) depending on game feel). 
+		-Likely a randomizer for choosing spawned in blocks until tweaks are needed.
+-Still figuring out Unity and getting it to work.
+-Worked on getting the application to launch on my Samsung, but build errors abound. 
+-Have gotten mind wrapped around keyboard inputs basics, so I believe at this time.
