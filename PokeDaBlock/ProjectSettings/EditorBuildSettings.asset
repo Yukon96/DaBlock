@@ -12,8 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/GameModeSelect.unity
     guid: 65199f55a3ce0114c964df032c34d3b8
   - enabled: 1
-    path: Assets/Scenes/AnotherOne.unity
-    guid: 94a3642f15f86c9458dffa85a272299f
+    path: Assets/Scenes/Janken.unity
+    guid: 811792cf3c9de2147b626c3b3e9e2ff9
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 74b0b21a7b9ffdb449d4dd01859e68e6, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 2ae75c412a6d7034ca32fddc0169897d, type: 2}

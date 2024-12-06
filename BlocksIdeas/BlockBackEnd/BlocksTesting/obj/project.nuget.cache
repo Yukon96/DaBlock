@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IWcbnli3tq4WZJBWDnOQMEp6XQ7M+dgFMWMsXxrLEtE4gTZ1ZlG6DUEht2M+EbAMasZjS9mJR9mvaO31ld+BBg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\10035\\OneDrive\\Documents\\PokeDaBlock\\BlockBackEnd\\BlocksTesting\\BlocksTesting.csproj",
+  "dgSpecHash": "IbItMz0EMug=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\BlocksTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\10035\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\10035\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
@@ -100,5 +100,15 @@
     "C:\\Users\\10035\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\10035\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\PokeTypes\\BlocksTypes.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\PokeTypes\\BlocksTypes.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

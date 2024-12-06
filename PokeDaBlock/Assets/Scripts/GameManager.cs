@@ -8,9 +8,10 @@ public class GameManager : MonoBehaviour
     public string currentLevel;
     private Dictionary<string, bool> levelsCompleted = new Dictionary<string, bool>();
     public GameObject settingsPanel;
-        
+
     public void Start()
     {
+        BlockType.InitializeTypes();
         DontDestroyOnLoad(gameObject);
         // Initialize game state (load from file or set default)
         currentLevel = "MainMenu";  // Starting point

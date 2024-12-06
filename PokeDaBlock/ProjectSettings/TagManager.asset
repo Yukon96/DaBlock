@@ -3,17 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
+  - Wall
+  - StoppedBlock
+  - BlockBottom
+  - BlockTop
+  - BlockSide
+  - Fire
+  - Water
+  - Grass
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - BlockTop
   - Water
   - UI
-  - 
-  - 
-  - 
+  - BlockBottom
+  - BlockSide
+  - LockedBlocks
   - 
   - 
   - 

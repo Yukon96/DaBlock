@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{423DEED4-31DD-421A-968A-81BA769F8EC1}|BlocksTypes\\BlocksTypes.csproj|c:\\users\\10035\\workspace\\pokedablock\\blocksideas\\blockbackend\\blockstypes\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423DEED4-31DD-421A-968A-81BA769F8EC1}|BlocksTypes\\BlocksTypes.csproj|solutionrelative:blockstypes\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423DEED4-31DD-421A-968A-81BA769F8EC1}|BlocksTypes\\BlocksTypes.csproj|c:\\users\\10035\\workspace\\pokedablock\\blocksideas\\blockbackend\\blockstypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423DEED4-31DD-421A-968A-81BA769F8EC1}|BlocksTypes\\BlocksTypes.csproj|solutionrelative:blockstypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423DEED4-31DD-421A-968A-81BA769F8EC1}|BlocksTypes\\BlocksTypes.csproj|c:\\users\\10035\\workspace\\pokedablock\\blocksideas\\blockbackend\\blockstypes\\typestuff\\typeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423DEED4-31DD-421A-968A-81BA769F8EC1}|BlocksTypes\\BlocksTypes.csproj|solutionrelative:blockstypes\\typestuff\\typeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423DEED4-31DD-421A-968A-81BA769F8EC1}|BlocksTypes\\BlocksTypes.csproj|c:\\users\\10035\\workspace\\pokedablock\\blocksideas\\blockbackend\\blockstypes\\typestuff\\typedefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423DEED4-31DD-421A-968A-81BA769F8EC1}|BlocksTypes\\BlocksTypes.csproj|solutionrelative:blockstypes\\typestuff\\typedefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423DEED4-31DD-421A-968A-81BA769F8EC1}|BlocksTypes\\BlocksTypes.csproj|c:\\users\\10035\\workspace\\pokedablock\\blocksideas\\blockbackend\\blockstypes\\typestuff\\blocktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423DEED4-31DD-421A-968A-81BA769F8EC1}|BlocksTypes\\BlocksTypes.csproj|solutionrelative:blockstypes\\typestuff\\blocktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F828827-9778-47ED-B9F4-077BE7C2D2C4}|BlocksTesting\\BlocksTesting.csproj|c:\\users\\10035\\workspace\\pokedablock\\blocksideas\\blockbackend\\blockstesting\\blockstests\\blocktypestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F828827-9778-47ED-B9F4-077BE7C2D2C4}|BlocksTesting\\BlocksTesting.csproj|solutionrelative:blockstesting\\blockstests\\blocktypestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F828827-9778-47ED-B9F4-077BE7C2D2C4}|BlocksTesting\\BlocksTesting.csproj|c:\\users\\10035\\workspace\\pokedablock\\blocksideas\\blockbackend\\blockstesting\\blockstests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F828827-9778-47ED-B9F4-077BE7C2D2C4}|BlocksTesting\\BlocksTesting.csproj|solutionrelative:blockstesting\\blockstests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\obj\\Debug\\net6.0\\BlocksTesting.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlocksTesting\\obj\\Debug\\net6.0\\BlocksTesting.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlocksTesting\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTypes\\UI.cs",
+              "RelativeDocumentMoniker": "BlocksTypes\\UI.cs",
+              "ToolTip": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTypes\\UI.cs",
+              "RelativeToolTip": "BlocksTypes\\UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:43:08.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTypes\\Program.cs",
+              "RelativeDocumentMoniker": "BlocksTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTypes\\Program.cs",
+              "RelativeToolTip": "BlocksTypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:43:05.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTypes\\TypeStuff\\TypeInfo.cs",
+              "RelativeDocumentMoniker": "BlocksTypes\\TypeStuff\\TypeInfo.cs",
+              "ToolTip": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTypes\\TypeStuff\\TypeInfo.cs",
+              "RelativeToolTip": "BlocksTypes\\TypeStuff\\TypeInfo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:42:52.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTypes\\TypeStuff\\TypeDefinition.cs",
+              "RelativeDocumentMoniker": "BlocksTypes\\TypeStuff\\TypeDefinition.cs",
+              "ToolTip": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTypes\\TypeStuff\\TypeDefinition.cs",
+              "RelativeToolTip": "BlocksTypes\\TypeStuff\\TypeDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:42:46.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlockType.cs",
+              "DocumentMoniker": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTypes\\TypeStuff\\BlockType.cs",
+              "RelativeDocumentMoniker": "BlocksTypes\\TypeStuff\\BlockType.cs",
+              "ToolTip": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTypes\\TypeStuff\\BlockType.cs",
+              "RelativeToolTip": "BlocksTypes\\TypeStuff\\BlockType.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:38:14.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlocktypesTest.cs",
+              "DocumentMoniker": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\BlocksTests\\BlocktypesTest.cs",
+              "RelativeDocumentMoniker": "BlocksTesting\\BlocksTests\\BlocktypesTest.cs",
+              "ToolTip": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\BlocksTests\\BlocktypesTest.cs",
+              "RelativeToolTip": "BlocksTesting\\BlocksTests\\BlocktypesTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:38:04.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlocksTesting.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\obj\\Debug\\net6.0\\BlocksTesting.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BlocksTesting\\obj\\Debug\\net6.0\\BlocksTesting.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\obj\\Debug\\net6.0\\BlocksTesting.AssemblyInfo.cs",
+              "RelativeToolTip": "BlocksTesting\\obj\\Debug\\net6.0\\BlocksTesting.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:38:04.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "BlocksTesting\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "BlocksTesting\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:38:04.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\BlocksTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BlocksTesting\\BlocksTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\10035\\Workspace\\PokeDaBlock\\BlocksIdeas\\BlockBackEnd\\BlocksTesting\\BlocksTests\\UnitTest1.cs",
+              "RelativeToolTip": "BlocksTesting\\BlocksTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:38:04.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
